@@ -10,4 +10,8 @@ Finally, the most compelling reason for me to take this class is to placate my m
 
 Currently, I am hoping to get a position in the Brock Research Lab, studying Pulsed Laser Deposition. According to an introduction to Pulsed Laser Deposition from Andor.com, PLD enables the creation of high quality thin films, which can be used in the production of Superconducting, circuit, and medical components. Yet despite the incredible applications of PLD films, the exact processes which occur during the transfer of ablated material to its substrate. 
 
+![alt text](http://people.ccmr.cornell.edu/~brock/images/AFM_FFT_cornell.png)
+
+(This picture, taken from the [Brock Research Group Website](http://people.ccmr.cornell.edu/~brock/), shows the deposition of homoepitaxial Strontium Titanate. Figure C demonstrates the correlation between the nearest neighbor island, and the inverse angle of the attentuator.)
+
 With uncertainty about the fundamental phenomena that occur during PLD, much research is currently focused on empirically optimizing the ablation and condensation of certain target and substrate combinations. As such, I hope that a Bayesian analysis which looks at the frequency of undesirable outcomes, such as interfering macroscopic globules, and non-uniform films could not only yield insights into ways to improve the process, but also gain a greater understanding of the underlying causes. 
